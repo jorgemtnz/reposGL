@@ -6,6 +6,9 @@
 /**/out-tsc
 /**/bazel-out
 
+# Compiled lib output
+/**/wwwroot/lib
+
 # Node
 /**/node_modules
 /**/npm-debug.log
