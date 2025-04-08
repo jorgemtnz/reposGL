@@ -7,7 +7,7 @@
 /**/bazel-out
 
 # Compiled lib output
-/**/wwwroot/lib
+/**/wwwroot/lib/**/
 
 # Node
 /**/node_modules
